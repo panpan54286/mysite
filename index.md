@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![ZelDa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdFVupN1lTMVWiX2UFLJT944y9M2PtprwsnD9oJjo6UZdlL2rN)
+![ZelDa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT39vNpFnAXS-A9Ar_Rn3LYm_RmFBWkRm1JBYMy-7a2PX0eSeZa)
 
-# Kirby
+# ZelDa
 
 A Nintendo Character
 
